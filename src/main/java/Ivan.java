@@ -14,6 +14,7 @@ public class Ivan {
         System.out.println(b.x);
 
 
+
         //площадь круга
         System.out.println(Math.roundsArea(5));
 
